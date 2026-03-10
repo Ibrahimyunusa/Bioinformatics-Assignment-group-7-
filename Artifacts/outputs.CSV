@@ -1,2 +1,6 @@
 Name,email,username,area of interest,programming language
 Ibrahim Yunusa,ibrahimyunusa6784@gmail.com,@ibrahimyunusa,transcriptomics,R
+yakubu,nagarimiji56@email.com,@dryakubu,Proteomics\n";
+pius,samuelpius519@gmail.com,samuelpius519-jpg, Genomics
+Ibrahim abinda,mubarak@email.com,@ibraheemabeedat2,biologicalsystem\n";
+System.out.println("Mariam, splendidibrahim2023@gmail.com,@splendidmetagenomics");
