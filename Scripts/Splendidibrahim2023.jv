@@ -1,1 +1,5 @@
-print "Mariam,splendidibrahim2023@email.com,@splendidibrahim2023,metagenomics\n";
+public class Splendid {
+    public static void main(String[] args) {
+        System.out.println("Mariam,splendidibrahim2023@gmail.com,@Splendid,Metagenomics");
+    }
+}
