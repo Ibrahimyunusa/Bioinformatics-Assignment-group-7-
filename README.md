@@ -59,12 +59,13 @@ yakubu muhammad perl
 Abida ibrahim Go
 Group Members Matriculation Numbers
 
-S/N	Matric Number
-1	BASUG/UG/BMS/ANA/22/4864
-2	BASUG/UG/BMS/ANA/22/4264
-3	BASUG/UG/BMS/ANA/22/5392
-4	BASUG/UG/BMS/ANA/22/3796
-5	BASUG/UG/BMS/ANA/22/6571
+|s\n|Matric Number|
+|---|-------------|
+|1|BASUG/UG/BMS/ANA/22/4864
+|2|BASUG/UG/BMS/ANA/22/4264
+|3|BASUG/UG/BMS/ANA/22/5392
+|4|BASUG/UG/BMS/ANA/22/3796
+|5|BASUG/UG/BMS/ANA/22/6571
 VIII. Repository Structurebioinformatic-assignment-group 7
 
 │ ├── scripts/ │ ├── michael.py │ ├── Fatima.java │ ├── Arabbisayyadi.R │ ├── Mubarak.pl │ └── Aliyu.go │ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
