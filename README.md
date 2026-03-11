@@ -1,4 +1,5 @@
-"###"I.Bioinformatic project
+"##"bioinformaticassignmentgroup7
+"##"I.projecttitle
 
 Multi-Language Bioinformatics Workflow Automation Using Bash
 
