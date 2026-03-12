@@ -53,12 +53,14 @@ VII. Programming Languages Used
 
 Each group member implemented their contribution using a different programming language:
 
-Contributor	Programming Language
-Ibrahim yunusa R
-mariam ibrahim java
-pius dauda samuel python
-yakubu muhammad perl
-Abida ibrahim Go
+|s/n|Contributor|ProgrammingLanguage|
+|----|-------------|----------------|
+|1|Ibrahimyunusa|R|
+|2|mariamibrahim|java|
+|3|piusdaudasamuel|python|
+|4|yakubumuhammad|perl|
+|5|Abidaibrahim|Go|
+
 Group Members Matriculation Numbers
 
 |s\n|Matric Number|
@@ -68,6 +70,7 @@ Group Members Matriculation Numbers
 |3|BASUG/UG/BMS/ANA/22/5392
 |4|BASUG/UG/BMS/ANA/22/3796
 |5|BASUG/UG/BMS/ANA/22/6571
+
 VIII. Repository Structurebioinformatic-assignment-group 7
 
 │ ├── scripts/ │ ├── michael.py │ ├── Fatima.java │ ├── Arabbisayyadi.R │ ├── Mubarak.pl │ └── Aliyu.go │ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
