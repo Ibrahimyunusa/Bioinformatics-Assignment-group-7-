@@ -24,22 +24,25 @@ Implement workflow automation using Bash scripting.
 Practice collaborative software development using GitHub.
 Generate structured data outputs suitable for downstream analysis.
 Develop clear and professional project documentation using Markdown.
+
 IV list of group member 
 |s/n|Name|
-|1|Ibrahim yunusa
-|2|mariam ibrahim akpozuto
-|3|pius dauda samiel
-|4|Abeeda ibrahim
-|5|yakubu Muhammad
+|---|------|
+|1|Ibrahim yunusa|
+|2|mariam ibrahim akpozuto|
+|3|pius dauda samiel|
+|4|Abeeda ibrahim|
+|5|yakubu Muhammad|
 
 V. GitHub Usernames of Contributors
 
-|Name|GitHub Username|
-|1|Ibrahim yunusa ibrahimyunusa
-|2|mariam ibrahim apkozuto splendidibrahim2023
-|3|pius sameul dauda samuelpius519
-|4|abeeda ibrahim ibraheemabeedat2
-|5|Yakubu muhammada dryakubu
+|s\n|Name|GitHubUsername|
+|---|------|-------------|
+|1|Ibrahimyunusa|@ibrahimyunusa|
+|2|mariamibrahim|@apkozutsplendidibrahim2023|
+|3|pius sameul dauda|samuelpius519|
+|4|abeeda ibrahim|ibraheemabeedat2|
+|5|Yakubu muhammada|dryakubu|
 
 VI. Each Member’s Area of Interest in Bioinformatics
 
