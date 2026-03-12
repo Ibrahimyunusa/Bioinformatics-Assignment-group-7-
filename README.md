@@ -46,12 +46,15 @@ V. GitHub Usernames of Contributors
 
 VI. Each Member’s Area of Interest in Bioinformatics
 
-Name	Area of Interest
-ibrahim yunusa transcrptomics
-abida ibrahim  biological system
-mariam ibrahim akpozuto metagenomics
-pius dauda sameul Genomics
-yakubu muhammad proteomics
+|s\n|Name|AreaofInterest|
+|--|----|----------------|
+|1|ibrahim yunusa|transcrptomics|
+|2|abida ibrahim|biological system|
+|3|mariam ibrahim akpozuto|metagenomics|
+|4|pius dauda sameul|Genomics|
+|5|yakubu muhammad|proteomics|
+
+
 VII. Programming Languages Used
 
 Each group member implemented their contribution using a different programming language:
@@ -76,7 +79,7 @@ Group Members Matriculation Numbers
 
 VIII. Repository Structurebioinformatic-assignment-group 7
 
-│ ├── scripts/ │ ├── michael.py │ ├── Fatima.java │ ├── Arabbisayyadi.R │ ├── Mubarak.pl │ └── Aliyu.go │ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
+│ ├── scripts/ │ ├── pius.py │ ├── mariam.java │ ├── ibrahimyunusa.R │ ├── dryakubu.pl │ └── Abida.go │ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
 
 Workflow Automation Using Bash
 
@@ -92,7 +95,8 @@ Generating Structured Data for Downstream Analysis
 
 The final output of the workflow is a CSV file containing structured information about the contributors. The CSV format makes the data easy to integrate with other computational tools, databases, and analytical workflows commonly used in bioinformatics.
 
-Example output format:Name,Email,Slack Username,Area of Interest ibrahimyunusa,ibrahimyunusa6784@gmail.com@ibrahimyunusa,transcriptomics.System.out.println("Mariam, splendidibrahim2023@gmail.com,@splendidmetagenomics");yakubu,nagarimiji56@email.com,@dryakubu,Proteomics\n";pius,samuelpius519@gmail.com,samuelpius519-jpg, Genomics
+Example output format:
+|s\n|Name|Email|Area of Interestibrahimyunusa,ibrahimyunusa6784@gmail.com@ibrahimyunusa,transcriptomics.System.out.println("Mariam, splendidibrahim2023@gmail.com,@splendidmetagenomics");yakubu,nagarimiji56@email.com,@dryakubu,Proteomics\n";pius,samuelpius519@gmail.com,samuelpius519-jpg, Genomics
 Ibrahim abinda,mubarak@email.com,@ibraheemabeedat2,biologicalsystem\n";
 
 Authors
