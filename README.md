@@ -23,7 +23,8 @@ This project demonstrates collaborative software development and workflow automa
 
 A Bash workflow script (run_workflow.sh) is used to automate the execution of all scripts within the repository. The workflow collects outputs from each script and combines them into a structured CSV file stored in the artifacts directory. This CSV file can then be used for downstream analysis or integration with other bioinformatics tools.
 
-The main objectives of this assignment are to:
+|The main objectives of this assignment are to:|
+|----|
 
 Demonstrate the use of multiple programming languages in bioinformatics.
 Implement workflow automation using Bash scripting.
@@ -94,7 +95,8 @@ Each group member implemented their contribution using a different programming l
 
 │ ├── scripts/ │ ├── pius.py │ ├── mariam.java │ ├── ibrahimyunusa.R │ ├── dryakubu.pl │ └── Abida.go │ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
 
-Workflow Automation Using Bash
+|Workflow Automation Using Bash|
+|------|
 
 The Bash script (run_workflow.sh) automates the execution of all scripts written in different programming languages. The workflow performs the following steps:
 
@@ -104,11 +106,12 @@ Appends the output into a single CSV file.
 Saves the combined results in the artifacts/output.csv file.
 This workflow demonstrates how Bash scripting can be used to coordinate multi-language bioinformatics analyses and automate repetitive computational tasks.
 
-Generating Structured Data for Downstream Analysis
+|Generating Structured Data for Downstream Analysis|
+|----|
 
 The final output of the workflow is a CSV file containing structured information about the contributors. The CSV format makes the data easy to integrate with other computational tools, databases, and analytical workflows commonly used in bioinformatics.
 
-|Example output format:|
+Example output format:-
 
 |s\n|name|email|GitHubusername|Area of interest|
 |---|----|------|-------------|--|
