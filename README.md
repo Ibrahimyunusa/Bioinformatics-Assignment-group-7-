@@ -96,8 +96,13 @@ Generating Structured Data for Downstream Analysis
 The final output of the workflow is a CSV file containing structured information about the contributors. The CSV format makes the data easy to integrate with other computational tools, databases, and analytical workflows commonly used in bioinformatics.
 
 Example output format:
-|s\n|Name|Email|Area of Interestibrahimyunusa,ibrahimyunusa6784@gmail.com@ibrahimyunusa,transcriptomics.System.out.println("Mariam, splendidibrahim2023@gmail.com,@splendidmetagenomics");yakubu,nagarimiji56@email.com,@dryakubu,Proteomics\n";pius,samuelpius519@gmail.com,samuelpius519-jpg, Genomics
-Ibrahim abinda,mubarak@email.com,@ibraheemabeedat2,biologicalsystem\n";
+|s\n|name|email|GitHubusername|Area of interest|
+|---|----|------|-------------|--|
+|1|ibrahimyunusa|ibrahimyunusa6784@gmail.com|@ibrahimyunusa|transcriptomics|
+|2|Mariam|splendidibrahim2023@gmail.com|@splendid|metagenomics|
+|3|yakubu|nagarimiji56@email.com|@dryakubu|Proteomics|
+|4|pius|samuelpius519@gmail.com|samuelpius519-jpg|Genomics|
+|5|Ibrahimabinda|mubarak@email.com|@ibraheemabeedat2|biologicalsystem|
 
 Authors
 
@@ -108,6 +113,6 @@ Lead Author / Project Maintainer
 Ibrahim yunusa – Workflow Design, Python Script Development, Repository Management
 GitHub: https://github.com/ibrahimyunusa
 Area of Interest: transcriptomics
-Contributors
+
 
 
