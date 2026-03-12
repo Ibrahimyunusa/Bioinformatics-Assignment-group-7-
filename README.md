@@ -32,6 +32,7 @@ Generate structured data outputs suitable for downstream analysis.
 Develop clear and professional project documentation using Markdown.
 
 |IV list of group member|
+|--------|
 
 |s/n|Name|
 |---|------|
@@ -41,7 +42,8 @@ Develop clear and professional project documentation using Markdown.
 |4|Abeeda ibrahim|
 |5|yakubu Muhammad|
 
-V. GitHub Usernames of Contributors
+|V. GitHub Usernames of Contributors|
+|------|
 
 |s\n|Name|GitHubUsername|
 |---|------|-------------|
@@ -51,7 +53,8 @@ V. GitHub Usernames of Contributors
 |4|abeeda ibrahim|ibraheemabeedat2|
 |5|Yakubu muhammada|dryakubu|
 
-VI. Each Member’s Area of Interest in Bioinformatics
+|VI. Each Member’s Area of Interest in Bioinformatics|
+|-----|
 
 |s\n|Name|AreaofInterest|
 |--|----|----------------|
@@ -75,7 +78,8 @@ Each group member implemented their contribution using a different programming l
 |4|yakubumuhammad|perl|
 |5|Abidaibrahim|Go|
 
-Group Members Matriculation Numbers
+|Group Members Matriculation Numbers|
+|------|
 
 |s\n|Matric Number|
 |---|-------------|
@@ -104,7 +108,8 @@ Generating Structured Data for Downstream Analysis
 
 The final output of the workflow is a CSV file containing structured information about the contributors. The CSV format makes the data easy to integrate with other computational tools, databases, and analytical workflows commonly used in bioinformatics.
 
-Example output format:
+|Example output format:|
+
 |s\n|name|email|GitHubusername|Area of interest|
 |---|----|------|-------------|--|
 |1|ibrahimyunusa|ibrahimyunusa6784@gmail.com|@ibrahimyunusa|transcriptomics|
