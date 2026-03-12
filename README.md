@@ -1,12 +1,14 @@
 |BIOINFORMATIC ASSIGNMENT GROUP SEVEN 7|
 |-----------------------------|
 
-I.projecttitle
+|I.projecttitle|
+|--------------|
 
 
 Multi-Language Bioinformatics Workflow Automation Using Bash
 
-II. Brief Overview of Introduction to Bioinformatics
+|II. Brief Overview of Introduction to Bioinformatics|
+|------------------|
 
 Bioinformatics is an interdisciplinary field that integrates biology, computer science, statistics, and information technology to analyze and interpret biological data. With the rapid advancement of sequencing technologies and molecular biology research, enormous amounts of biological data are generated daily. Bioinformatics provides the computational tools and methods required to store, organize, analyze, and visualize this complex data.
 
@@ -14,7 +16,8 @@ One of the major applications of bioinformatics is in genomics, where computatio
 
 Programming and automation are essential components of bioinformatics. Researchers frequently use programming languages and computational workflows to automate repetitive tasks, analyze biological datasets, and ensure reproducibility of results.
 
-III. Description of the Assignment
+|III. Description of the Assignment|
+|------------------|
 
 This project demonstrates collaborative software development and workflow automation using multiple programming languages in a bioinformatics context. Each member of the group contributed a script written in a different programming language. These scripts generate structured information about the contributors and their bioinformatics interests.
 
@@ -28,7 +31,8 @@ Practice collaborative software development using GitHub.
 Generate structured data outputs suitable for downstream analysis.
 Develop clear and professional project documentation using Markdown.
 
-IV list of group member 
+|IV list of group member|
+
 |s/n|Name|
 |---|------|
 |1|Ibrahim yunusa|
@@ -58,7 +62,8 @@ VI. Each Member’s Area of Interest in Bioinformatics
 |5|yakubu muhammad|proteomics|
 
 
-VII. Programming Languages Used
+|VII. Programming Languages Used|
+|------|
 
 Each group member implemented their contribution using a different programming language:
 
@@ -80,7 +85,8 @@ Group Members Matriculation Numbers
 |4|BASUG/UG/BMS/ANA/22/3796
 |5|BASUG/UG/BMS/ANA/22/6571
 
-VIII. Repository Structurebioinformatic-assignment-group 7
+|VIII. Repository Structurebioinformatic-assignment-group 7|
+|------|
 
 │ ├── scripts/ │ ├── pius.py │ ├── mariam.java │ ├── ibrahimyunusa.R │ ├── dryakubu.pl │ └── Abida.go │ ├── artifacts/ │ └── output.csv │ ├── run_workflow.sh ├── README.md └── .gitignore---
 
@@ -107,11 +113,13 @@ Example output format:
 |4|pius|samuelpius519@gmail.com|samuelpius519-jpg|Genomics|
 |5|Ibrahimabinda|mubarak@email.com|@ibraheemabeedat2|biologicalsystem|
 
-Authors
+|Authors|
+|-------|
 
 This project was collaboratively developed by Group 7 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
 
-Lead Author / Project Maintainer
+|Lead Author / Project Maintainer|
+|-------|
 
 Ibrahim yunusa – Workflow Design, Python Script Development, Repository Management
 GitHub: https://github.com/ibrahimyunusa
